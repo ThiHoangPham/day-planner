@@ -16,6 +16,6 @@
 ![2](https://user-images.githubusercontent.com/88220398/135827712-c36b5f7a-6457-433a-b2ea-fb72dd359812.png)
 ![3](https://user-images.githubusercontent.com/88220398/135827721-0837330c-bc96-4f85-b45a-a0a8a5261770.png)
 ![4](https://user-images.githubusercontent.com/88220398/135827727-38e2e810-f204-46d0-9eab-2b9076250aaf.png)
-![5](https://user-images.githubusercontent.com/88220398/135827734-986010d5-6d71-4b98-80e2-d519a18a010c.png)
+![5](https://user-images.githubusercontent.com/88220398/135828135-e9f987d8-827a-42a7-a5df-0f43a53029c7.png)
 ---
 # Live view page: [Click Here!](https://thihoangpham.github.io/day-planner-adam-homework5/)
